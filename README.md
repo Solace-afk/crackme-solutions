@@ -45,7 +45,7 @@ Dalam membedah *binary*, saya memanfaatkan beberapa *tools* berikut:
 | No | Nama CrackMe | Sumber | Level | Tools | Status |
 |:---|:---|:---|:---|:---|:---|
 | 1 | [Getting Started Keygen] | [crackmes.one](https://crackmes.one) | Easy | Ghidra | Selesai |
-| 2 | [Crackme 02] | [crackmes.one](https://crackmes.one) | TBD | TBD | WIP |
+| 2 | [easy_reverse] | [crackmes.one](https://crackmes.one) | Easy | TBD | WIP |
 | 3 | [Crackme 03] | [crackmes.one](https://crackmes.one) | TBD | TBD | WIP |
 
 ---
