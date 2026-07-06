@@ -22,7 +22,6 @@ Semua challenge yang dianalisis di sini bersumber dari platform publik [Crackmes
 
 Repository ini dibangun dengan tujuan:
 
-- Memenuhi tugas pembuatan portofolio GitHub untuk mendokumentasikan proses belajar secara tertulis.
 - Mempraktikkan analisis *binary* sederhana menggunakan *tools* Reverse Engineering (RE).
 - Melatih kemampuan menerjemahkan kode *assembly* atau *decompiled C* menjadi logika yang dapat dipahami.
 - Membiasakan penggunaan Git dan GitHub sebagai alat kerja profesional dengan *commit* yang konsisten dan bermakna.
@@ -45,7 +44,7 @@ Dalam membedah *binary*, saya memanfaatkan beberapa *tools* berikut:
 
 | No | Nama CrackMe | Sumber | Level | Tools | Status |
 |:---|:---|:---|:---|:---|:---|
-| 1 | [Getting Started Keygen] | [crackmes.one](https://crackmes.one) | Easy | Ghidra | Completed |
+| 1 | [Getting Started Keygen] | [crackmes.one](https://crackmes.one) | Easy | Ghidra | Selesai |
 | 2 | [Crackme 02] | [crackmes.one](https://crackmes.one) | TBD | TBD | WIP |
 | 3 | [Crackme 03] | [crackmes.one](https://crackmes.one) | TBD | TBD | WIP |
 
