@@ -10,9 +10,9 @@
 
 # Tentang Repository
 
-Repository ini berisi kumpulan *write-up* (catatan penyelesaian) dari berbagai challenge **CrackMe** yang saya kerjakan. Repository ini merupakan bagian dari tugas portofolio GitHub pribadi sebagai bukti nyata proses belajar Reverse Engineering selama satu semester.
+Repository ini berisi kumpulan *write-up* (catatan penyelesaian) dari berbagai challenge **CrackMe** yang saya kerjakan. Repository ini berperan sebagai bukti proses belajar Reverse Engineering.
 
-Setiap *write-up* di dalam repository ini mendokumentasikan secara rinci proses analisis: mulai dari pengintaian awal, pembedahan kode menggunakan berbagai *tools*, hingga merumuskan logika penyelesaian. Sesuai dengan instruksi, fokus utama dari setiap *write-up* adalah **menjelaskan proses berpikir (how and why)**, bukan sekadar membagikan jawaban akhir (flag/key).
+Setiap *write-up* di dalam repository ini mendokumentasikan secara rinci proses analisis: mulai dari pengintaian awal, pembedahan kode menggunakan berbagai *tools*, hingga merumuskan logika penyelesaian. Fokus utama dari setiap *write-up* adalah **menjelaskan proses berpikir (how and why)**, bukan sekadar membagikan jawaban akhir (flag/key).
 
 Semua challenge yang dianalisis di sini bersumber dari platform publik [Crackmes.one](https://crackmes.one/), yang menyediakan *binary* secara legal untuk tujuan edukasi.
 
@@ -24,7 +24,7 @@ Repository ini dibangun dengan tujuan:
 
 - Mempraktikkan analisis *binary* sederhana menggunakan *tools* Reverse Engineering (RE).
 - Melatih kemampuan menerjemahkan kode *assembly* atau *decompiled C* menjadi logika yang dapat dipahami.
-- Membiasakan penggunaan Git dan GitHub sebagai alat kerja profesional dengan *commit* yang konsisten dan bermakna.
+- Membiasakan penggunaan Git dan GitHub sebagai alat kerja profesional dengan *commit* yang konsisten.
 
 ---
 
@@ -46,7 +46,7 @@ Dalam membedah *binary*, saya memanfaatkan beberapa *tools* berikut:
 |:---|:---|:---|:---|:---|:---|
 | 1 | [Getting started keygen] | [crackmes.one](https://crackmes.one) | Easy | Ghidra | Selesai |
 | 2 | [easy_reverse] | [crackmes.one](https://crackmes.one) | Easy | Ghidra | Selesai |
-| 3 | [GDB basic] | [crackmes.one](https://crackmes.one) | TBD | TBD | WIP |
+| 3 | [GDB basic] | [crackmes.one](https://crackmes.one) | Easy | Ghidra | Selesai |
 
 ---
 
